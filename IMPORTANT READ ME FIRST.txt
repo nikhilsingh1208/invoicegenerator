@@ -1,0 +1,40 @@
+Thank You for Using the Invoice Generator Bot!  
+
+We sincerely appreciate you choosing our service for your invoicing needs. Your invoice has been successfully generated and is ready for use.  
+
+Should you have any suggestions, encounter issues, or require further assistance, please don’t hesitate to reach out. Your feedback is invaluable, and we are dedicated to providing you with the best possible experience.  
+
+Thank you for your trust,  
+Glacier Development Team
+
+---------------------------------------------------------
+
+Requirements
+
+To ensure smooth functionality, please make sure the following modules are installed:
+
+1. moment-timezone = 0.5.46
+2. discord.js = 14.16.3
+3. nodemailer = 6.9.16
+4. chalk = 4.1.2
+
+You can install these modules using:
+npm install moment-timezone@0.5.46 discord.js@14.16.3 nodemailer@6.9.16 chalk@4.1.2
+
+---------------------------------------------------------
+
+
+Configuration and Customization Guide  
+
+1. config.json
+   Update this file to suit your needs. Configure your bot token, API key, default channel ID, SMTP details, and invoice settings as required.  
+
+2. emoji.json
+   Upload the emojis from the `emoji` folder to your Discord bot. Copy each emoji’s ID and update the corresponding entries in this JSON file.  
+
+3. Adding New Commands
+   You can add new commands by following the structure of the `ping` command.  
+
+4. Requesting New Features
+   Have ideas or need additional features? Submit your suggestions in the **Issues** section, and we’ll consider them for future updates.  
+

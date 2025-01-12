@@ -1,0 +1,24 @@
+{
+    "DISCORD_TOKEN": "put-your-bot-token", // Discord Bot Token For Login
+    "INVOICE_API_KEY": "put-your-api-key", // https://invoice-generator.com/app/settings
+    "defaultChannel": "000000000000000000", // Default channel for saving invoices
+    "whitelist": ["000000000000000000", "000000000000000000"], // Whitelist user to excute the commands
+    "SMTP_CONFIG": {
+        "host": "hostname",
+        "port": 587,
+        "secure": false,
+        "user": "username",
+        "pass": "pass"
+    },
+    "INVOICESETTINGS": {
+        "from": "Example Company",
+        "logo": "", // link with https://
+        "currency": "inr", // ISO 4217 3-digit currency code
+        "payment_terms_title": "Payment Method",
+        "terms": "Refund Policy: 1 day Only",
+        "purchase_order_title": "Status",
+        "payment_terms": "UPI",
+        "emailid": "youremail@example.com",
+        "notes": "Thanks For Purchasing From Us"
+    }
+}
