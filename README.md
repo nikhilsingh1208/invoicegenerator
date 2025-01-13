@@ -17,7 +17,7 @@ The Invoice Generator Bot is a powerful and user-friendly Discord bot designed t
 
 ## Fresh Installation  
    ```  
-   sudo apt update && mkdir invoice-generator && cd invoice-generator && sudo apt install -y git nodejs && git clone https://github.com/nikhilsingh1208/invoicegenerator.git && npm install  moment-timezone==0.5.46 discord.js==14.16.3 nodemailer==6.9.16 chalk==4.1.2
+   sudo apt update && mkdir invoice-generator && cd invoice-generator && sudo apt install -y git nodejs && git clone https://github.com/nikhilsingh1208/invoicegenerator.git && cd Bot-files/ && npm install  moment-timezone==0.5.46 discord.js==14.16.3 nodemailer==6.9.16 chalk==4.1.2
    ```  
 
 ## Configuration and Customization Guide
