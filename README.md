@@ -42,4 +42,4 @@ Contributions are welcome! Feel free to open issues, suggest improvements, or su
 This project is licensed under the [MIT License](LICENSE).  
 
 ## Support  
-If you encounter any issues or have questions, contact us at support@yourcompany.com or join our Discord server [click here](https://discord.gg/5MjRxuehdS).  
+If you encounter any issues or have questions, contact us on our Discord server [click here](https://discord.gg/5MjRxuehdS).  
