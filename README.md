@@ -21,11 +21,18 @@ The Invoice Generator Bot is a powerful and user-friendly Discord bot designed t
    ```  
 
 ## Configuration and Customization Guide
+
 1. config.json
-   Update this file to suit your needs. Configure your bot token, API key, default channel ID, SMTP details, and invoice settings as required.
+   Update this file to suit your needs. Configure your bot token, API key, default channel ID, SMTP details, and invoice settings as required.  
 
 2. emoji.json
-   Upload the emojis from the emoji folder to your Discord bot. Copy each emoji’s ID and update the corresponding entries in this JSON file.
+   Upload the emojis from the `emoji` folder to your Discord bot. Copy each emoji’s ID and update the corresponding entries in this JSON file.  
+
+3. Adding New Commands
+   You can add new commands by following the structure of the `ping` command.  
+
+4. Requesting New Features
+   Have ideas or need additional features? Submit your suggestions in the **Issues** section, and we’ll consider them for future updates.  
 
 ## Usage  
 1. Start the bot:  
